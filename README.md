@@ -67,7 +67,8 @@ $ python2 premium.py
 ```python
 apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/premium ; cd premium ; python2 premium.py
 ```
-</br>
+<br>
+
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Azim-Vau) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/#)
