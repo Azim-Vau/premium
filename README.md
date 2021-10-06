@@ -51,7 +51,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 ```python
 $ apt update && apt upgrade
 $ apt install python2
-$ pip2 install mechanize
+$ pip2 install mechanize lolcat
 $ pip2 install requests bs4
 $ apt install git
 $ git clone https://github.com/Azim-vau/premium.git
@@ -65,7 +65,7 @@ $ python2 premium.py
 #### [~] Single Command
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/premium ; cd premium ; python2 premium.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/premium ; cd premium ; python2 premium.py
 ```
 <br>
 
