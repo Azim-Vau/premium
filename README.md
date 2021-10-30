@@ -47,7 +47,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
       FB  ID CLONER (PREMIUM)
 </p>
 
-![20200808_160757](https://github.com/Azim-vau/MODULES/blob/main/Screenshot_20211007-113035_Termux.jpg)
+![20200808_160757](https://github.com/Azim-vau/MODULES/blob/main/premium.png)
 
 #### Install script on Termux
 ```python
